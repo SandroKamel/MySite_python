@@ -1,0 +1,4 @@
+Migrations for 'polls':
+  polls\migrations\0001_initial.py
+    - Create model Question
+    - Create model Choice
